@@ -19,4 +19,3 @@ void showArray (int[] array){
 int [] array = randomArray(5);
 showArray(array);
 Console.WriteLine($"Разница между максимальным и минимальным значением массива равна {array.Max() - array.Min()}");
-
