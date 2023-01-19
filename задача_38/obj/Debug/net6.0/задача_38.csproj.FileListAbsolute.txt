@@ -1,0 +1,16 @@
+E:\LInux\GeekBrains\Знакомство с языками программирования (семинары)\Семинар 5\задания\задача_38\obj\Debug\net6.0\задача_38.GlobalUsings.g.cs
+E:\LInux\GeekBrains\Знакомство с языками программирования (семинары)\Семинар 5\задания\задача_38\obj\Debug\net6.0\задача_38.csproj.AssemblyReference.cache
+E:\LInux\GeekBrains\Знакомство с языками программирования (семинары)\Семинар 5\задания\задача_38\obj\Debug\net6.0\задача_38.GeneratedMSBuildEditorConfig.editorconfig
+E:\LInux\GeekBrains\Знакомство с языками программирования (семинары)\Семинар 5\задания\задача_38\obj\Debug\net6.0\задача_38.AssemblyInfoInputs.cache
+E:\LInux\GeekBrains\Знакомство с языками программирования (семинары)\Семинар 5\задания\задача_38\obj\Debug\net6.0\задача_38.AssemblyInfo.cs
+E:\LInux\GeekBrains\Знакомство с языками программирования (семинары)\Семинар 5\задания\задача_38\obj\Debug\net6.0\задача_38.csproj.CoreCompileInputs.cache
+E:\LInux\GeekBrains\Знакомство с языками программирования (семинары)\Семинар 5\задания\задача_38\bin\Debug\net6.0\задача_38.exe
+E:\LInux\GeekBrains\Знакомство с языками программирования (семинары)\Семинар 5\задания\задача_38\bin\Debug\net6.0\задача_38.deps.json
+E:\LInux\GeekBrains\Знакомство с языками программирования (семинары)\Семинар 5\задания\задача_38\bin\Debug\net6.0\задача_38.runtimeconfig.json
+E:\LInux\GeekBrains\Знакомство с языками программирования (семинары)\Семинар 5\задания\задача_38\bin\Debug\net6.0\задача_38.dll
+E:\LInux\GeekBrains\Знакомство с языками программирования (семинары)\Семинар 5\задания\задача_38\bin\Debug\net6.0\ref\задача_38.dll
+E:\LInux\GeekBrains\Знакомство с языками программирования (семинары)\Семинар 5\задания\задача_38\bin\Debug\net6.0\задача_38.pdb
+E:\LInux\GeekBrains\Знакомство с языками программирования (семинары)\Семинар 5\задания\задача_38\obj\Debug\net6.0\задача_38.dll
+E:\LInux\GeekBrains\Знакомство с языками программирования (семинары)\Семинар 5\задания\задача_38\obj\Debug\net6.0\ref\задача_38.dll
+E:\LInux\GeekBrains\Знакомство с языками программирования (семинары)\Семинар 5\задания\задача_38\obj\Debug\net6.0\задача_38.pdb
+E:\LInux\GeekBrains\Знакомство с языками программирования (семинары)\Семинар 5\задания\задача_38\obj\Debug\net6.0\задача_38.genruntimeconfig.cache
